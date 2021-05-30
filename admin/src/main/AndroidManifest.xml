@@ -13,6 +13,7 @@
         android:theme="@style/Theme.Design.Light.NoActionBar">
         <activity android:name=".MainActivity"></activity>
         <activity android:name=".full_Medicine" />
+        <activity android:name=".shareActivity" />
         <activity android:name=".find_Meadicine" />
         <activity android:name=".meals_Activity" />
         <activity android:name=".online_Doctor" />
